@@ -1,4 +1,5 @@
 require 'knapsack'
+require 'allure-rspec'
 
 # CUSTOM_CONFIG_GOES_HERE
 
