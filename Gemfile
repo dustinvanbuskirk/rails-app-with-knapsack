@@ -48,6 +48,8 @@ group :development, :test do
   gem 'spring'
 
   gem 'knapsack'
+
+  gem 'allure-rspec'
 end
 
 group :test do
