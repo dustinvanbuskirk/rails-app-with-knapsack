@@ -1,6 +1,7 @@
 {
-  "spec/controllers/articles_controller_spec.rb": 0.03306412696838379,
-  "spec/controllers/welcome_controller_spec.rb": 0.006062746047973633,
-  "spec/services/calculator_spec.rb": 0.001628875732421875,
-  "spec/services/meme_spec.rb": 0.00012493133544921875
+  "spec/controllers/articles_controller_spec.rb": 0.18859529495239258,
+  "spec/controllers/welcome_controller_spec.rb": 0.06704306602478027,
+  "spec/dir with spaces/foobar_spec.rb": 0.015140056610107422,
+  "spec/services/calculator_spec.rb": 0.0008683204650878906,
+  "spec/services/meme_spec.rb": 0.0002574920654296875
 }
