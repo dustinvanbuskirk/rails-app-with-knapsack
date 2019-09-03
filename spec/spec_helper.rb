@@ -3,8 +3,10 @@ require 'allure-rspec'
 
 # CUSTOM_CONFIG_GOES_HERE
 
+build_id=ENV["BUILD_ID"]
+
 AllureRSpec.configure do |c|
-  c.output_dir = "/codefresh/volume/allure-results"
+  c.output_dir = "/codefresh/volume/allure-results/#{build_id}"
   c.clean_dir = false
 end
 
